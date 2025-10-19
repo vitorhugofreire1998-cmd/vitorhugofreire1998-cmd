@@ -1,111 +1,65 @@
-# Vitor Hugo Freire Rodrigues
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorhugofreire1998-cmd&style=flat-square&color=blue" alt="Vitor Hugo" />
+</p>
 
-👋 Olá! Sou entusiasta de **Ciência de Dados**.  
-Formado em Ciência de Dados pela Estácio, atuo com **análise estatística, automação e visualização de dados**.  
-Meu objetivo é **transformar dados em insights estratégicos** e otimizar processos com inteligência.
+<h1 align="center">Olá! Eu sou o Vitor Hugo 👋</h1>
 
-### 🤖 Linguagens e Tecnologias
+<p align="center">
+Sou entusiasta de <strong>Ciência de Dados</strong>. Formado em Ciência de Dados pela Estácio, atuo com análise estatística, manipulação de dados e visualização para apoiar decisões estratégicas.
+</p>
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VBA" 
-    title="VBA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🛠 Principais Tecnologias
 
-### 📈 Estatísticas no GitHub
-<p>
+Aqui estão algumas das minhas principais habilidades em ferramentas e linguagens que utilizo:
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="VBA" src="https://img.shields.io/badge/VBA-862633?style=for-the-badge&logo=microsoft-vba&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+**Projeto:** [Mini Dashboard de Vendas](https://github.com/vitorhugofreire1998-cmd/mini-dashboard)  
+**Descrição:** Criação de um dashboard em Python para análise de vendas, com visualização de KPIs, gráficos interativos e insights estratégicos para tomada de decisão.  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vitorhugofreire1998-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 20px;"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugofreire1998-cmd&theme=tokyonight&layout=compact&langs_count=9&custom_title=Principais%20Tecnologias" 
+  <img 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugofreire1998-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque
-<p align="center">
-<a href="https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348?v=2556e0b82afb80d4959f000c0495b6f2">
-    <img alt="Projetos Notion" src="https://img.shields.io/badge/Projetos-Notion%20e%20Excel-blue?style=for-the-badge&logo=notion" />
-</a>
-</p>
+## 📫 Contato
+
+- Email: vitorhugofreire1998@gmail.com  
+- Telefone/WhatsApp: [+55 (21) 99935-9194](tel:+5521999359194)  
+- LinkedIn: [Vitor Hugo Freire](https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201)  
+- Notion: [Meu Portfólio](https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348)
 
 ---
 
-### 🎯 Progresso em Habilidades
-- Python: ![90%](https://img.shields.io/badge/Python-90%25-brightgreen)
-- SQL: ![80%](https://img.shields.io/badge/SQL-80%25-yellowgreen)
-- Power BI: ![75%](https://img.shields.io/badge/PowerBI-75%25-yellow)
-- Excel: ![85%](https://img.shields.io/badge/Excel-85%25-brightgreen)
-- VBA: ![70%](https://img.shields.io/badge/VBA-70%25-orange)
+<p align="center">Obrigado por visitar meu perfil! 🚀</p>
 
----
-
-### 📬 Contato
-<p>
-<a href="mailto:vitorhugofreire1998@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-vitorhugofreire1998@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="tel:+5521999359194">
-    <img alt="Telefone" src="https://img.shields.io/badge/Telefone-(21)99935-9194-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-</p>
