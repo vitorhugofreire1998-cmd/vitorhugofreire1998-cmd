@@ -1,35 +1,8 @@
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/vitorhfrodrigues">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vitorhfrodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/vitorhfrodrigues">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vitorhfrodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# Vitor Hugo Freire Rodrigues
 
----
+👋 Olá! Sou entusiasta de **Ciência de Dados**.  
+Formado em Ciência de Dados pela Estácio, atuo com **análise estatística, automação e visualização de dados**.  
+Meu objetivo é **transformar dados em insights estratégicos** e otimizar processos com inteligência.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -67,6 +40,14 @@
 />
 <img 
     align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -77,8 +58,7 @@
 <br/>
 <br/>
 
-### 📈 Estatísticas
-
+### 📈 Estatísticas no GitHub
 <p>
   <img 
     align="left" 
@@ -90,9 +70,9 @@
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GitHub Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugofreire1998-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugofreire1998-cmd&theme=tokyonight&layout=compact&langs_count=9&custom_title=Principais%20Tecnologias" 
   />
 
 </p>
@@ -105,10 +85,6 @@
     <img alt="Projetos Notion" src="https://img.shields.io/badge/Projetos-Notion%20e%20Excel-blue?style=for-the-badge&logo=notion" />
 </a>
 </p>
-<p align="center">
-<img alt="GIF Excel" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" title="Análise de Dados em Excel"/>
-<img alt="GIF Power BI" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" title="Dashboard em Power BI"/>
-</p>
 
 ---
 
@@ -117,6 +93,7 @@
 - SQL: ![80%](https://img.shields.io/badge/SQL-80%25-yellowgreen)
 - Power BI: ![75%](https://img.shields.io/badge/PowerBI-75%25-yellow)
 - Excel: ![85%](https://img.shields.io/badge/Excel-85%25-brightgreen)
+- VBA: ![70%](https://img.shields.io/badge/VBA-70%25-orange)
 
 ---
 
@@ -127,5 +104,8 @@
 </a>
 <a href="https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="tel:+5521999359194">
+    <img alt="Telefone" src="https://img.shields.io/badge/Telefone-(21)99935-9194-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
