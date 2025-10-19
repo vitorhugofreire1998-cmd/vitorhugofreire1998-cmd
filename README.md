@@ -1,85 +1,78 @@
-# 👋 Olá! Eu sou o Vitor Hugo Freire Rodrigues
-
-Sou um entusiasta da **Ciência de Dados** e acredito que a tecnologia é capaz de transformar a forma como entendemos o mundo. Tenho formação em **Ciência de Dados pela Estácio**, com foco em **análise estatística, automação e visualização de informações**.
-Meu objetivo é usar dados para **resolver problemas reais**, gerar insights estratégicos e otimizar processos com inteligência.
-
----
-
-## 🎯 Sobre mim
-
-Desde cedo, sempre fui curioso sobre como as coisas funcionam — e foi essa curiosidade que me levou à área de dados.
-Venho desenvolvendo minha carreira de forma prática, estudando ferramentas analíticas e aplicando meu conhecimento em projetos pessoais que unem **lógica, estatística e criatividade**.
-
-Sou movido por aprendizado contínuo: gosto de testar, errar, corrigir e aprender. Busco sempre compreender o “porquê” por trás de cada número e como isso pode ajudar pessoas e negócios a tomarem decisões melhores.
+<p align="center">
+    <a href="https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201">
+        <img alt="LinkedIn" title="Conecte-se comigo" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-VitorHugo-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348?v=2556e0b82afb80d4959f000c0495b6f2">
+        <img alt="Notion" title="Meus projetos e anotações" src="https://custom-icon-badges.demolab.com/badge/Notion-Projetos-black?style=for-the-badge&logo=notion&logoColor=white" />
+    </a>
+    <a href="https://github.com/vitorhfrodrigues">
+        <img alt="GitHub seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/vitorhfrodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    </a>
+</p>
 
 ---
 
-## 🎓 Formação Acadêmica
+### 👋 Olá, eu sou Vitor Hugo
+💻 Estudante de **Ciência de Dados** na Estácio  
+📊 Foco em **análise de dados**, **visualização de informações** e **automação de processos**  
+🎯 Buscando oportunidades como **Analista de Dados**  
 
-🎓 **Bacharelado em Ciência de Dados** — *Estácio (2025)*
-🎓 **Técnico em Auxiliar Administrativo** — *Edune (2025)*
-
----
-
-## 🧠 Conhecimentos Técnicos
-
-📗 **Excel Avançado**
-
-* Fórmulas complexas: **PROCV**, **PROCX**, **SOMASE**, **SOMASES**
-* Automação e criação de dashboards com **VBA**
-* Relatórios dinâmicos e análise de dados com **Tabelas e Gráficos Dinâmicos**
-
-🗄️ **SQL**
-
-* Consultas, filtros, **JOINs**, agrupamentos e manipulação de bases relacionais
-* Aplicação de SQL para análise de desempenho e cruzamento de dados
-
-🐍 **Python (em aprendizado)**
-
-* Manipulação e tratamento de dados com **Pandas**
-* Estruturação de análises e limpeza de informações
-
-📊 **Power BI**
-
-* Dashboards interativos e relatórios automatizados
-* Indicadores e visualizações com foco em storytelling com dados
-
-📈 **Estatística e Amostragem**
-
-* Técnicas de **amostragem com e sem reposição**
-* **Estimação de médias, totais e proporções**
-* Interpretação de resultados para tomada de decisão
+![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
-## 🧩 Portfólio
-
-📁 Confira meus projetos, relatórios e estudos em:
-🔗 [Portfólio de Projetos — Notion](https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348?v=2556e0b82afb80d4959f000c0495b6f2)
-
----
-
-## 🌍 Idiomas
-
-* 🇧🇷 **Português:** Nativo
-* 🇺🇸 **Inglês:** Avançado (leitura técnica e conversação)
+### 🛠 Tecnologias & Habilidades
+<p>
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+<img align="left" alt="Excel" title="Excel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+<br/><br/>
 
 ---
 
-## 🏆 Conquistas e Certificações
-
-* **Excel Avançado — Preditiva.ia:** domínio de fórmulas e automação com VBA
-* **SQL para Análise de Dados:** consultas e cruzamento de informações em bases relacionais
-* **Estatística — Estácio:** aplicação de técnicas de amostragem e interpretação de dados
-* **Projetos em Python, SQL e Power BI** focados em análise e visualização de dados
+### 📈 Minhas Estatísticas do GitHub
+<p>
+  <img align="left" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=vitorhfrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfrodrigues&theme=tokyonight&layout=compact&langs_count=8&custom_title=Top%20Linguagens" />
+</p>
 
 ---
 
-## 📫 Contato
+### 🚀 Projetos em Destaque
+<p align="center">
+<a href="https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348?v=2556e0b82afb80d4959f000c0495b6f2">
+    <img alt="Projeto Análise de Dados" src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-Excel%20e%20Notion-blue?style=for-the-badge&logo=notion" />
+</a>
+</p>
 
-📍 Itanhangá — Barra da Tijuca, RJ
-📧 **[vitorhugofreire1998@gmail.com](mailto:vitorhugofreire1998@gmail.com)**
-💼 [LinkedIn — Vitor Hugo Freire Rodrigues](https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201)
-📂 [GitHub — vitorhugofreire1998](https://github.com/vitorhugofreire1998-cmd)
-🗂️ [Portfólio — Notion](https://miniature-collard-2d0.notion.site/2556e0b82afb80c480a5cbc704c29348?v=2556e0b82afb80d4959f000c0495b6f2)
+<p align="center">
+<img alt="GIF Projeto 1" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" title="Dashboard de Análise de Dados"/>
+<img alt="GIF Projeto 2" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" title="Automação de Relatórios com Excel"/>
+<img alt="GIF Projeto 3" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" title="Dashboard de Projetos no Notion"/>
+</p>
+
+---
+
+### 🎯 Progresso em Habilidades
+- Python: ![90%](https://img.shields.io/badge/Python-90%25-brightgreen)
+- SQL: ![80%](https://img.shields.io/badge/SQL-80%25-yellowgreen)
+- Power BI: ![75%](https://img.shields.io/badge/PowerBI-75%25-yellow)
+- Excel: ![85%](https://img.shields.io/badge/Excel-85%25-brightgreen)
+
+---
+
+### 📬 Contato
+<p>
+<a href="mailto:vitorhugofreire1998@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-vitorhugofreire1998@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vitor-hugo-freire-rodrigues-939330201">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conecte-se-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 
