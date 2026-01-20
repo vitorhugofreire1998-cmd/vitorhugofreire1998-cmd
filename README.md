@@ -5,7 +5,7 @@
 <h1 align="center">Olá! Eu sou o Vitor Hugo 👋</h1>
 
 <p align="center">
-Sou entusiasta de <strong>Ciência de Dados</strong>. Formado em Ciência de Dados pela Estácio, atuo com análise estatística, manipulação de dados e visualização para apoiar decisões estratégicas.
+Sou entusiasta de <strong>Analista de Dados</strong>. Cursando em Ciência de Dados pela Estácio, atuo com análise estatística, manipulação de dados e visualização para apoiar decisões estratégicas.
 </p>
 
 ---
